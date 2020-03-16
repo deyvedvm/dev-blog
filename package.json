@@ -1,6 +1,9 @@
 {
   "name": "dev-blog",
   "version": "0.1.0",
+  "description": "Blog for developers",
+  "author": "Deyve Vieira",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
